@@ -1,0 +1,47 @@
+# My changes
+*.pdf
+*.xlsx
+*.xlsm
+*.xls
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.zip
+*.csv
+*.tmp
+*.jpg
+*.csv
+*.asv
+*.rar
+*.gz
+*.txt
+*.dvi
+*.aux
+*.xml
+*.tex
+*.toc
+*.mat
+*.xlx
+
+# Stata dataset and output files
+*.dta
+*.gph
+*.log
+*.smcl
+*.stpr
+*.stsem
+
+# Graphic export files from Stata
+# Stata command graph export: http://www.stata.com/manuals14/g-2graphexport.pdf
+#
+# You may add graphic export files to your .gitignore. However you should be
+# aware that this will exclude all image files from this main directory
+# and subdirectories.
+# *.ps
+# *.eps
+# *.wmf
+# *.emf
+# *.pdf
+# *.png
+# *.tif
